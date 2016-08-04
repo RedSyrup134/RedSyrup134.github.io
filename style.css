@@ -1,13 +1,13 @@
 h1 {
-    color: #FF0000;
+    color: maroon;
     text-align: center;
     font-size: 45px;
     border-bottom: 5px solid;
 }
 
 h2 {
-    border-bottom: 1px solid #5C6983;
-    color: #FFCC00;
+    border-bottom: 1px solid maroon;
+    color: maroon;
     padding-bottom: 3px;
     margin: 5px 5px 5px 5px;
 }
@@ -15,7 +15,7 @@ h2 {
 li:hover {
     text-decoration: underline;
     font-size: 18px;
-    color: black;
+    color: maroon;
 }
 
 
