@@ -1,11 +1,22 @@
 h1 {
-    color: maroon;
-    text-align: center;
-    font-size: 45px;
-    border-bottom: 5px solid;
+	font-family: 'Allan', Helvetica, Arial, sans-serif;
+	font-size: 70px;
+	line-height: 75px;
+	color: maroon;
 }
 
+p {
+	font-family: 'Cardo', Georgia, Times, serif;
+	font-size: 18px;
+	line-height: 25px;
+}
+
+
+
 h2 {
+    font-family: 'Cardo', Georgia, Times, serif;
+	font-size: 18px;
+	line-height: 25px;
     border-bottom: 1px solid maroon;
     color: maroon;
     padding-bottom: 3px;
@@ -20,15 +31,23 @@ li:hover {
 
 
 ul {
+    font-family: 'Cardo', Georgia, Times, serif;
+	font-size: 15px;
+	line-height: 20px;
     padding: 0 0 0 50px;
 }
 
 body {
+    background: url(images/pw_pattern.png) repeat 0 0;
+    font-family: 'Cardo', Georgia, Times, serif;
+	font-size: 13px;
+	line-height: 20px;
     text-align: center;
     border: 10px solid black;
-    padding: 5px 5px 5px 5px;
-    margin: 5px 5px 5px 5px;
-    background-color: white;
+    padding: 20px 20px 20px 20px;
+    margin: 0px 0px 0px 0px;
+   
+   
 
 }
 
